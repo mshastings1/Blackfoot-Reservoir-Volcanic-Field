@@ -1,4 +1,6 @@
-# Blackfoot-Reservoir-Volcanic-Field
+# Blackfoot-Reservoir-Volcanic-Field Gravity Data
+
+[![DOI](https://zenodo.org/badge/365883125.svg)](https://zenodo.org/badge/latestdoi/365883125)
 
 Repository for data and work related to the Blackfoot Reservoir Volcanic Field.
 
