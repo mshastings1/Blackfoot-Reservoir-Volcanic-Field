@@ -18,6 +18,6 @@ All the data is stored as space-separated text files, and the UTM Zone for all t
 
 <b>usf_terrestrial_092019.dat</b> - Data collected on land in September of 2019
 
-<b>usf_marine_092019.dat</b> - Data collected on the Blackfoot Reservoir. 
+<b>usf_marine_092019.dat</b> - Data collected on the Blackfoot Reservoir in September of 2019.
 
 <b>usgs_reprocessed_2020.dat</b> - Reprocessed USGS data shifted to the USF data. Provides larger spatial extent than the USGS data in the usf+usgs_2018.dat datafile.
